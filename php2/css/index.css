@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    margin: 0 auto;
+    width: 100%;
+}
+a:visited{
+    text-decoration:none;
+    color: black;
+}
+#cabecera{
+    height: 75px;
+    background-color: rgb(120,120,255);
+    border-bottom: 1px solid;
+}
+#enlaces{
+    float: right;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+#contenido{
+    padding-top: 50px;
+    margin-left: 100px;
+    width: 200px;
+}
+a:link{
+    text-decoration:none;
+}
+#registrarse{
+    float: right;
+    color: chartreuse;
+    font-size: 20px;
+}
+#titulo{
+    color: black;
+    font-size: 26px;
+    padding-top: 20px;
+    margin-left: 100px;
+}
